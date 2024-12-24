@@ -1,0 +1,8 @@
+base_url: "https://jsonplaceholder.typicode.com"
+think_time_min: 1
+think_time_max: 3
+endpoints:
+  posts: "/posts"
+  users: "/users"
+  comments: "/comments"
+  todos: "/todos"
